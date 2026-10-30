@@ -10,14 +10,3 @@ Turowa gra o żużlu w przeglądarce (telefon i komputer). Jeden plik `index.htm
 - Tor się zużywa i jest równany po biegach 4, 8 i 12.
 - Zdarzają się upadki (czerwone światło, powtórka biegu) i defekty (zawodnik zjeżdża na trawę).
 
-## Uruchomienie lokalnie
-Otwórz `index.html` w przeglądarce.
-
-## Publikacja na GitHub Pages
-1. Utwórz repozytorium i wgraj `index.html` oraz `README.md` do gałęzi `main`.
-2. W repozytorium: Settings, Pages, Source: Deploy from a branch, Branch: `main`, folder `/ (root)`.
-3. Po chwili gra jest dostępna pod adresem `https://TWOJ-LOGIN.github.io/NAZWA-REPO/`.
-
-## Uwagi
-- Zawodnicy i drużyny są fikcyjni. Karta biegów jest uproszczona i nie odpowiada oficjalnemu regulaminowi żadnej ligi.
-- Gra nie używa cookies, localStorage, analityki ani zewnętrznych zasobów.
